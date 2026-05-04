@@ -6,6 +6,7 @@ Programı zil-baslat.bat dosyası ile kullanabilirsiniz.
 Windowsun açılışına bu dosyayı eklerseniz bilgisayarınız açıldığında zil programı aktif hale gelir.
 
 MP3 klasörü içerisinde alt klasörler oluşturup, programda bu alt klasörlerden mp3 sesleri çalabilirsiniz. 
+Github boş klasöre izin vermediği için 1.txt isimli boş dosyalar oluşturmak zorunda kaldım. o dosyaları silebilirsiniz. 
 
 Anfi kontrolü için arduino uno, bir adet röle kontrol devresi kullanarak program üzerinden anfi kapat aç yapabilirsiniz. 
 Arduino kodları verilmiştir. Kodlarda yer alan pin numaralarına göre bağlantıları gerçekleştirebilirsiniz. 
